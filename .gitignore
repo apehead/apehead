@@ -1,0 +1,12 @@
+# Only the profile game and its generator are published; prototypes, previews and notes stay local.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+!/build.mjs
+!/publish.mjs
+!/src/
+/src/*
+!/src/lib.mjs
+!/src/adventure.mjs
+!/src/quest/

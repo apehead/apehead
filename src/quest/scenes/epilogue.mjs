@@ -313,7 +313,7 @@ export default function render() {
     body,
     dialogues: [
       { speaker: 'MIRRA', lines: ['Release nights end at six now.', 'People go home.'] },
-      [{ speaker: 'VILLAGERS', lines: ['HAIL APEHEAD!'], w: 400 }, { speaker: 'APEHEAD', lines: ["Good. Now let's make it", 'boring everywhere.'] }],
+      [{ speaker: 'VILLAGERS', lines: ['HAIL APEHEAD!'], w: 400 }, { speaker: 'APEHEAD', lines: ['Good. Next village,', 'same lever.'] }],
     ],
   });
 }

@@ -112,7 +112,7 @@ ${SCENES.credits ? img('credits.svg') + '\n\n' : ''}<h3 align="center">Thanks fo
 <br>
 
 <p align="center"><b>Alexander Curiel</b> · Principal Engineer at <a href="https://github.com/spotahome">Spotahome</a><br>
-<sub>I like hard problems, boring releases and teaching robots good manners.</sub></p>
+<sub>I like hard problems, quiet release nights and teaching robots good manners.</sub></p>
 
 <p align="center"><a href="https://es.linkedin.com/in/alexandercuriel/en">LinkedIn</a> · <a href="https://github.com/spotahome">@spotahome</a></p>
 

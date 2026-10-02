@@ -345,7 +345,7 @@ export default function render() {
     id: 'secret',
     label: "Secret ending, rest at the bonfire. Night on the now-peaceful catacomb grounds, the sealed barrow quiet on the horizon under stars and a moon. A crackling campfire throws sparks and warm flickering light over the party resting around it: the ape paladin sits back against a tombstone, helmet off in the grass beside him, holding a banana and smiling; Brakka the dwarf snores with his tankard, a bubble swelling from his nose; Xal'Zor the beholder dozes in mid-air, eye shut and eyestalks drooping; Gus the gelatinous cube roasts a marshmallow on a stick, another floating inside him; the three Clockwork Choir constructs sit in sleep mode behind a fallen log, Z's drifting up. Fireflies glow in the grass.",
     body,
-    dialogues: [{ speaker: 'APEHEAD', lines: ['The real treasure was the boring releases', 'we made along the way.'] }],
+    dialogues: [{ speaker: 'APEHEAD', lines: ['The real treasure was the friends we made', 'along the way. And the rollback plan.'] }],
   });
 }
 

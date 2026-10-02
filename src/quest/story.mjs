@@ -250,11 +250,11 @@ export const NODES = [
 export const SECRET = {
   key: '?', label: "Look under the elder's table",
   scene: 'secret',
-  narration: ['The real treasure was the boring releases we made along the way.'],
+  narration: ['Nobody got paged tonight.'],
 };
 
 // One-line intro under the title card.
 export const INTRO = [
-  'You are **APEHEAD**, a principal engineer with a party of coding agents, sent to make shipping boring.',
+  'You are **APEHEAD**, a principal engineer with a party of coding agents, sent to end the curse of release night.',
   'Choose wisely. Or don\'t: dying is half the fun (18 deaths to find).',
 ];

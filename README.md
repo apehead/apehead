@@ -1,6 +1,6 @@
 <p align="center"><picture><img src="assets/title.svg" width="100%" alt="THE CATACOMBS OF LEGACY, an 8-bit title screen. Under a full moon, an ape paladin in silver armour with a red plume and a sword stands at the front of his party, in silhouette behind him: a dwarf with a wrench, three clockwork constructs with glowing cyan visors and a gelatinous cube. Ahead, a torch-lit crypt; in the dark of its arch, a lich&#39;s green eyes glow. A ghoul claws out of a grave on the right. Scroll down to play."></picture></p>
 
-You are **APEHEAD**, a principal engineer with a party of coding agents, sent to make shipping boring.<br>Choose wisely. Or don't: dying is half the fun (18 deaths to find).
+You are **APEHEAD**, a principal engineer with a party of coding agents, sent to end the curse of release night.<br>Choose wisely. Or don't: dying is half the fun (18 deaths to find).
 
 <details name="ch-start">
 <summary><kbd>▶</kbd> <b>PRESS START</b></summary>
@@ -507,7 +507,7 @@ Release nights end at six now. People go home.<br>Word spread. Other villages as
 <br>
 
 <p align="center"><b>Alexander Curiel</b> · Principal Engineer at <a href="https://github.com/spotahome">Spotahome</a><br>
-<sub>I like hard problems, boring releases and teaching robots good manners.</sub></p>
+<sub>I like hard problems, quiet release nights and teaching robots good manners.</sub></p>
 
 <p align="center"><a href="https://es.linkedin.com/in/alexandercuriel/en">LinkedIn</a> · <a href="https://github.com/spotahome">@spotahome</a></p>
 
@@ -518,7 +518,7 @@ Release nights end at six now. People go home.<br>Word spread. Other villages as
 
 <p align="center"><picture><img src="assets/secret.svg" width="100%" alt="Secret ending, rest at the bonfire. Night on the now-peaceful catacomb grounds, the sealed barrow quiet on the horizon under stars and a moon. A crackling campfire throws sparks and warm flickering light over the party resting around it: the ape paladin sits back against a tombstone, helmet off in the grass beside him, holding a banana and smiling; Brakka the dwarf snores with his tankard, a bubble swelling from his nose; Xal&#39;Zor the beholder dozes in mid-air, eye shut and eyestalks drooping; Gus the gelatinous cube roasts a marshmallow on a stick, another floating inside him; the three Clockwork Choir constructs sit in sleep mode behind a fallen log, Z&#39;s drifting up. Fireflies glow in the grass."></picture></p>
 
-The real treasure was the boring releases we made along the way.
+Nobody got paged tonight.
 
 </details>
 
